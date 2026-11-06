@@ -1,0 +1,1 @@
+To test run 'npm test' from the root folder
